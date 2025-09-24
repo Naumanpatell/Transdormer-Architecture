@@ -1,4 +1,3 @@
-![Transformer Notes Banner](https://img.shields.io/badge/🧠%20Transformer%20Architecture%20Notes-NLP%20%26%20Deep%20Learning-blueviolet?style=for-the-badge)
 
 # 🧠 Transformer Architecture Notes  
 
