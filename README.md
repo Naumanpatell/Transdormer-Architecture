@@ -32,13 +32,10 @@ The goal of this repo is to **document my learning journey** and provide a struc
   - Machine Translation  
   - Text Summarisation  
   - BERT, GPT, and other LLMs
- 
-
 
 - 🔹 **Refrences**
   - Vaswani et al. – "Attention Is All You Need" (2017)
   
       
 
-```math
-Attention(Q, K, V) = softmax\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+
